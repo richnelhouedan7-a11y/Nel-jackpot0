@@ -1,0 +1,13 @@
+{
+  "name": "nel-jackpot-classe",
+  "version": "1.0.0",
+  "description": "NEL JACKPOT · Classe : jeu de groupe avec numéros uniques et ticket",
+  "main": "nel-groupe.js",
+  "scripts": {
+    "start": "node nel-groupe.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
